@@ -1,2 +1,0 @@
-# Qintess
-Teste Bancario
